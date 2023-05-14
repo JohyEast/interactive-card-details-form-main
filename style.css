@@ -1,0 +1,11 @@
+.target-name {
+  height: 245px;
+  width: 447px;
+  background-image: url("./images/bg-card-front.png");
+}
+
+.target-cvc {
+  height: 245px;
+  width: 447px;
+  background-image: url("./images/bg-card-back.png");
+}
