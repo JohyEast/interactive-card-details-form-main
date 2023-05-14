@@ -9,3 +9,9 @@
   width: 447px;
   background-image: url("./images/bg-card-back.png");
 }
+
+.container {
+  display: flex;
+  justify-content: column;
+  align-items: space-around;
+}
